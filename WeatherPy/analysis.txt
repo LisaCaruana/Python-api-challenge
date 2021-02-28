@@ -1,0 +1,13 @@
+### Part I Analysis:
+##3 observable trends for query date January 28, 2021:
+
+1. There is no apparent relationship between temperature, humidity, and cloudiness.
+2. There is an inverse relationship between max temp and latitude, with max temp
+decreasing as latitude increases.
+3. Winter temperatures in the Northern hemisphere and summer temperatures in the 
+Southern hemisphere are clearly displayed in the shape of the City Latitude vs. Max Temperature 
+graph. While temperatures around the 0 degrees latitude (the equator) remain consistently high, the long tail
+on the right side of the graph indicates a steep drop in temperatures as you move up in
+latitude and north from the equator to where the Earth is tilted away from the sun, causing winter. In contrast, warmer temperatures on the left
+side of the graph can be seen even in latitudes far from the equator as the Earth's tilt on its axis means this hemisphere is facing the
+sun, bringing warmer summer temperatures even as you move away from the equator.  
